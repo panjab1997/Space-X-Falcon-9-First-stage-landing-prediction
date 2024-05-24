@@ -10,14 +10,14 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 
 ### Methodology
 
-Data collection methodology:
+1) Data collection methodology:
   - SpaceX Rest API 
   - (Web Scrapping) from Wikipedia
-Performed data wrangling (Transforming data for Machine Learning)
+2) Performed data wrangling (Transforming data for Machine Learning)
   - One Hot Encoding data fields for Machine Learning and dropping irrelevant columns
-Performed exploratory data analysis (EDA) using visualization and SQL
+3) Performed exploratory data analysis (EDA) using visualization and SQL
   - Plotting : Scatter Graphs, Bar Graphs to show relationships between variables to show patterns of data. 
-Performed interactive visual analytics using Folium and Plotly Dash
-Performed predictive analysis using classification models
+4) Performed interactive visual analytics using Folium and Plotly Dash
+5) Performed predictive analysis using classification models
   - How to build, tune, evaluate classification models
 
